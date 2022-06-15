@@ -1,0 +1,37 @@
+[
+    {
+        "color": "red",
+        "value": "#f00",
+        "size": "small"
+    },
+    {
+        "color": "red",
+        "value": "#0f0",
+        "size": "middium"
+    },
+    {
+        "color": "blue",
+        "value": "#00f",
+        "size": "large"
+    },
+    {
+        "color": "cyan",
+        "value": "#0ff",
+        "size": "small"
+    },
+    {
+        "color": "magenta",
+        "value": "#f0f",
+        "size": "large"
+    },
+    {
+        "color": "yellow",
+        "value": "#ff0",
+        "size": "small"
+    },
+    {
+        "color": "black",
+        "value": "#000",
+        "size": "large"
+    }
+]

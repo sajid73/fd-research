@@ -1,0 +1,14 @@
+Enamul Haque8:36 PM
+https://linuxhint.com/parse-json-data-cpp/
+https://java2blog.com/json-parser-cpp/
+Enamul Haque8:37 PM
+https://github.com/open-source-parsers/jsoncpp
+https://d3js.org/
+Enamul Haque8:39 PM
+https://bost.ocks.org/mike/fisheye/
+https://uwaterloo.ca/scholar/e6haque/home
+https://github.com/ehmoni/GraphMatch
+Enamul Haque8:41 PM
+https://github.com/ehmoni/GraphMatch/tree/master/VisualOutput
+https://www.modernescpp.com/index.php/c-core-guidelines-rules-for-template-metaprogramming
+https://medium.com/fintechexplained/advanced-python-metaprogramming-980da1be0c7d
